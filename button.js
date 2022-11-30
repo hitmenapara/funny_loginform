@@ -17,5 +17,5 @@ submitb.addEventListener("mouseover",(button)=>{
 	else{
 		button.target.classList.add("stop");
 	}
-	}
+}
 )
